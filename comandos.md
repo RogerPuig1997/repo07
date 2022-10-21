@@ -10,7 +10,7 @@ $ git checkout practica01_APELLIDOS_NOMBRE
 $ git status  
 $ git add .
 $ git commit -m "Creo el archivo practica01_APELLIDOS_NOMBRE.txt"  
-*Editamos el fichero para poner nuestro nombre y apellidos*
+*Editamos el fichero para poner nuestro nombre y apellidos*  
 $ git add .  
 $ git commit -m "Editamos el fichero para añadr nuestro nombre"  
 $ git push origin practica01_APELLIDOS_NOMBRE  
